@@ -218,13 +218,13 @@ small{
 }
 /*------- footer----------*/
 .footer{
-    background: #0000;
-    color:#8d6d6d;
+    background: #000;
+    color:#8a8a8a;
     font-size:14px;
     padding:60px 0 20px;
 }
 .footer p{
-  color:#8d6d6d ;  
+  color:#8a8a8a ;  
 }
 .footer h3{
     color: #ffff;
@@ -240,7 +240,7 @@ small{
     flex-basis: 30%;
 }
 .footer-col-2{
-    flex-basis: 30%;
+    flex: 1;
     text-align: center;
 }
 .footer-col-2 img{
